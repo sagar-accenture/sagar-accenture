@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sagar Shah
+# 👋 Hi, I’m Sagar Shah
 - 👨‍💻 Software Engineering Associate
 - 👀 I’m interested in AI/ML and Full Stack Engineering
 - 🌱 I’m currently learning Full Stack Engineering
