@@ -1,9 +1,19 @@
 # 👋 Hi, I’m Sagar Shah
-- 👨‍💻 Software Engineering Associate
+<!-- - 👨‍💻 Software Engineering Associate
 - 👀 I’m interested in AI/ML and Full Stack Engineering
-- 🌱 I’m currently learning Full Stack Engineering
+- 🌱 I’m currently learning Full Stack Engineering -->
 ```javascript
-let techSkills = [javascript, python, matlab, ejs, express]
+let me = {
+name:"Sagar Shah",
+interests:{
+  technologies:[ai, ml, fullstack, vr],
+  sports:[bouldering, mountain biking, hiking, football],
+  },
+job-title:"Application Development Associate",
+company:"Accenture",
+inTraining:true
+}
+
 ```
 
 <!---
