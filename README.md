@@ -2,7 +2,9 @@
 - 👨‍💻 Software Engineering Associate
 - 👀 I’m interested in AI/ML and Full Stack Engineering
 - 🌱 I’m currently learning Full Stack Engineering
-- `let techSkills = [javascript, python, matlab, react, ejs, express]`
+```javascript
+let techSkills = [javascript, python, matlab, ejs, express]
+```
 
 <!---
 sagar-accenture/sagar-accenture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
