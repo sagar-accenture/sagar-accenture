@@ -6,7 +6,7 @@
 let me = {
 name:"Sagar Shah",
 interests:{
-  technologies:[ai, ml, fullstack, vr],
+  technologies:[ai, ml, fullstack, vr, aws],
   sports:[bouldering, mountain biking, hiking, football],
   },
 job-title:"Application Development Associate",
